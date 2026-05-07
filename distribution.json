@@ -1,0 +1,339 @@
+{
+    "version": "1.0.0",
+    "java": {
+        "oracle": "https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html"
+    },
+    "servers": [
+        {
+            "id": "TazakyDream-1.20.1",
+            "name": "Tazaky Dream",
+            "description": "Official Tazaky Dream server.",
+            "version": "1.0.0",
+            "address": "A Lazaky Dream",
+            "minecraftVersion": "1.20.1",
+            "mainServer": true,
+            "autoconnect": true,
+            "modules": [
+                {
+                    "id": "net.minecraftforge:forge:1.20.1-47.4.10",
+                    "name": "Minecraft Forge",
+                    "type": "ForgeHosted",
+                    "artifact": {
+                        "MD5": "f202df135ad32fef7e7c42e957c142af",
+                        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-universal.jar"
+                    }
+                },
+                {
+                    "id": "tazaky.dream:badpackets-forge-0.4.3:1.0.0",
+                    "name": "badpackets-forge-0.4.3",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 27919,
+                        "path": "mods/badpackets-forge-0.4.3.jar",
+                        "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/badpackets-forge-0.4.3.jar"
+                    }
+                },
+                {
+                    "id": "tazaky.dream:balm-forge-1.20.1-7.3.9-all:1.0.0",
+                    "name": "balm-forge-1.20.1-7.3.9-all",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 373583,
+                        "path": "mods/balm-forge-1.20.1-7.3.9-all.jar",
+                        "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/balm-forge-1.20.1-7.3.9-all.jar"
+                    }
+                },
+                {
+                    "id": "tazaky.dream:BiomesOPlenty-1.20.1-18.0.0.592:1.0.0",
+                    "name": "BiomesOPlenty-1.20.1-18.0.0.592",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 21800460,
+                        "path": "mods/BiomesOPlenty-1.20.1-18.0.0.592.jar",
+                        "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/BiomesOPlenty-1.20.1-18.0.0.592.jar"
+                    }
+                },
+                {
+                    "id": "tazaky.dream:Corgilib-Forge-1.20.1-4.0.3.2:1.0.0",
+                    "name": "Corgilib-Forge-1.20.1-4.0.3.2",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 360348,
+                        "path": "mods/Corgilib-Forge-1.20.1-4.0.3.2.jar",
+                        "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/Corgilib-Forge-1.20.1-4.0.3.2.jar"
+                    }
+                },
+                {
+                    "id": "tazaky.dream:geckolib-forge-1.20.1-4.4.9:1.0.0",
+                    "name": "geckolib-forge-1.20.1-4.4.9",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 991552,
+                        "path": "mods/geckolib-forge-1.20.1-4.4.9.jar",
+                        "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/geckolib-forge-1.20.1-4.4.9.jar"
+                    }
+                },
+                {
+                    "id": "tazaky.dream:jei-1.20.1-forge-15.19.5.99:1.0.0",
+                    "name": "jei-1.20.1-forge-15.19.5.99",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1385057,
+                        "path": "mods/jei-1.20.1-forge-15.19.5.99.jar",
+                        "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/jei-1.20.1-forge-15.19.5.99.jar"
+                    }
+                },
+                {
+                    "id": "tazaky.dream:moonlight-1.20-2.12.17-forge:1.0.0",
+                    "name": "moonlight-1.20-2.12.17-forge",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1167666,
+                        "path": "mods/moonlight-1.20-2.12.17-forge.jar",
+                        "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/moonlight-1.20-2.12.17-forge.jar"
+                    }
+                },
+                {
+                    "id": "tazaky.dream:Oh-The-Biomes-Weve-Gone-Forge-1.3.0:1.0.0",
+                    "name": "Oh-The-Biomes-Weve-Gone-Forge-1.3.0",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 35026651,
+                        "path": "mods/Oh-The-Biomes-Weve-Gone-Forge-1.3.0.jar",
+                        "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/Oh-The-Biomes-Weve-Gone-Forge-1.3.0.jar"
+                    }
+                },
+                {
+                    "id": "tazaky.dream:Oh-The-Trees-Youll-Grow-forge-1.20.1-1.3.1:1.0.0",
+                    "name": "Oh-The-Trees-Youll-Grow-forge-1.20.1-1.3.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 124326,
+                        "path": "mods/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.3.1.jar",
+                        "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.3.1.jar"
+                    }
+                },
+                {
+                    "id": "tazaky.dream:sit-1.20.1-1.3.4:1.0.0",
+                    "name": "sit-1.20.1-1.3.4",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 14543,
+                        "path": "mods/sit-1.20.1-1.3.4.jar",
+                        "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/sit-1.20.1-1.3.4.jar"
+                    }
+                },
+                {
+                    "id": "tazaky.dream:starlight-1.1.2+forge.1cda73c:1.0.0",
+                    "name": "starlight-1.1.2+forge.1cda73c",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 110583,
+                        "path": "mods/starlight-1.1.2+forge.1cda73c.jar",
+                        "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/starlight-1.1.2%2Bforge.1cda73c.jar"
+                    }
+                },
+                {
+                    "id": "tazaky.dream:supplementaries-1.20-2.8.17:1.0.0",
+                    "name": "supplementaries-1.20-2.8.17",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 14531952,
+                        "path": "mods/supplementaries-1.20-2.8.17.jar",
+                        "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/supplementaries-1.20-2.8.17.jar"
+                    }
+                },
+                {
+                    "id": "tazaky.dream:TerraBlender-forge-1.20.1-3.0.1.7:1.0.0",
+                    "name": "TerraBlender-forge-1.20.1-3.0.1.7",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 107534,
+                        "path": "mods/TerraBlender-forge-1.20.1-3.0.1.7.jar",
+                        "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/TerraBlender-forge-1.20.1-3.0.1.7.jar"
+                    }
+                },
+                {
+                    "id": "tazaky.dream:The-Man-From-The-Fog-1.4-1.20.1:1.0.0",
+                    "name": "The-Man-From-The-Fog-1.4-1.20.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 3769386,
+                        "path": "mods/The-Man-From-The-Fog-1.4-1.20.1.jar",
+                        "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/The-Man-From-The-Fog-1.4-1.20.1.jar"
+                    }
+                },
+                {
+                    "id": "tazaky.dream:The_Undergarden-1.20.1-0.8.14:1.0.0",
+                    "name": "The_Undergarden-1.20.1-0.8.14",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 45084263,
+                        "path": "mods/The_Undergarden-1.20.1-0.8.14.jar",
+                        "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/The_Undergarden-1.20.1-0.8.14.jar"
+                    }
+                },
+                {
+                    "id": "tazaky.dream:waystones-forge-1.20-14.1.5:1.0.0",
+                    "name": "waystones-forge-1.20-14.1.5",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 483650,
+                        "path": "mods/waystones-forge-1.20-14.1.5.jar",
+                        "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/waystones-forge-1.20-14.1.5.jar"
+                    }
+                },
+                {
+                    "id": "tazaky.dream:worldedit-mod-7.2.15:1.0.0",
+                    "name": "worldedit-mod-7.2.15",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 5825402,
+                        "path": "mods/worldedit-mod-7.2.15.jar",
+                        "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/worldedit-mod-7.2.15.jar"
+                    }
+                },
+                {
+                    "id": "tazaky.dream:wthit-forge-8.15.2:1.0.0",
+                    "name": "wthit-forge-8.15.2",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 763982,
+                        "path": "mods/wthit-forge-8.15.2.jar",
+                        "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/wthit-forge-8.15.2.jar"
+                    }
+                },
+                {
+                    "id": "tazaky.dream:wthitharvestability-mc1.20.1-2.2.0:1.0.0",
+                    "name": "wthitharvestability-mc1.20.1-2.2.0",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 25597,
+                        "path": "mods/wthitharvestability-mc1.20.1-2.2.0.jar",
+                        "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/wthitharvestability-mc1.20.1-2.2.0.jar"
+                    }
+                },
+                {
+                    "id": "tazaky.dream:YungsApi-1.20-Forge-4.0.5:1.0.0",
+                    "name": "YungsApi-1.20-Forge-4.0.5",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 365910,
+                        "path": "mods/YungsApi-1.20-Forge-4.0.5.jar",
+                        "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/YungsApi-1.20-Forge-4.0.5.jar"
+                    }
+                },
+                {
+                    "id": "tazaky.dream:YungsBetterDesertTemples-1.20-Forge-3.0.3:1.0.0",
+                    "name": "YungsBetterDesertTemples-1.20-Forge-3.0.3",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 918012,
+                        "path": "mods/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+                        "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar"
+                    }
+                },
+                {
+                    "id": "tazaky.dream:YungsBetterDungeons-1.20-Forge-4.0.4:1.0.0",
+                    "name": "YungsBetterDungeons-1.20-Forge-4.0.4",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 792381,
+                        "path": "mods/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+                        "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/YungsBetterDungeons-1.20-Forge-4.0.4.jar"
+                    }
+                },
+                {
+                    "id": "tazaky.dream:YungsBetterEndIsland-1.20-Forge-2.0.6:1.0.0",
+                    "name": "YungsBetterEndIsland-1.20-Forge-2.0.6",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 387111,
+                        "path": "mods/YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+                        "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/YungsBetterEndIsland-1.20-Forge-2.0.6.jar"
+                    }
+                },
+                {
+                    "id": "tazaky.dream:YungsBetterJungleTemples-1.20-Forge-2.0.5:1.0.0",
+                    "name": "YungsBetterJungleTemples-1.20-Forge-2.0.5",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 806652,
+                        "path": "mods/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+                        "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar"
+                    }
+                },
+                {
+                    "id": "tazaky.dream:YungsBetterMineshafts-1.20-Forge-4.0.4:1.0.0",
+                    "name": "YungsBetterMineshafts-1.20-Forge-4.0.4",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 492998,
+                        "path": "mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+                        "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/YungsBetterMineshafts-1.20-Forge-4.0.4.jar"
+                    }
+                },
+                {
+                    "id": "tazaky.dream:YungsBetterNetherFortresses-1.20-Forge-2.0.6:1.0.0",
+                    "name": "YungsBetterNetherFortresses-1.20-Forge-2.0.6",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 619255,
+                        "path": "mods/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+                        "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar"
+                    }
+                },
+                {
+                    "id": "tazaky.dream:YungsBetterOceanMonuments-1.20-Forge-3.0.4:1.0.0",
+                    "name": "YungsBetterOceanMonuments-1.20-Forge-3.0.4",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1033262,
+                        "path": "mods/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+                        "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar"
+                    }
+                },
+                {
+                    "id": "tazaky.dream:YungsBetterStrongholds-1.20-Forge-4.0.3:1.0.0",
+                    "name": "YungsBetterStrongholds-1.20-Forge-4.0.3",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 473564,
+                        "path": "mods/YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+                        "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/YungsBetterStrongholds-1.20-Forge-4.0.3.jar"
+                    }
+                },
+                {
+                    "id": "tazaky.dream:YungsBetterWitchHuts-1.20-Forge-3.0.3:1.0.0",
+                    "name": "YungsBetterWitchHuts-1.20-Forge-3.0.3",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 179190,
+                        "path": "mods/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+                        "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar"
+                    }
+                },
+                {
+                    "id": "tazaky.dream:YungsBridges-1.20-Forge-4.0.3:1.0.0",
+                    "name": "YungsBridges-1.20-Forge-4.0.3",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 136236,
+                        "path": "mods/YungsBridges-1.20-Forge-4.0.3.jar",
+                        "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/YungsBridges-1.20-Forge-4.0.3.jar"
+                    }
+                },
+                {
+                    "id": "tazaky.dream:YungsExtras-1.20-Forge-4.0.3:1.0.0",
+                    "name": "YungsExtras-1.20-Forge-4.0.3",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 200341,
+                        "path": "mods/YungsExtras-1.20-Forge-4.0.3.jar",
+                        "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/YungsExtras-1.20-Forge-4.0.3.jar"
+                    }
+                }
+            ]
+        }
+    ]
+}
