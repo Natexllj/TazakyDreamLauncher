@@ -17,10 +17,11 @@
             "modules": [
                 {
                     "id": "net.minecraftforge:forge:1.20.1-47.4.10",
-                    "name": "Forge",
-                    "type": "Forge",
+                    "name": "Minecraft Forge",
+                    "type": "ForgeHosted",
                     "artifact": {
-                        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-installer.jar"
+                        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-installer.jar",
+                        "MD5": "c8f5d7af7b9c7f1e0f0b0d1548c7c5f5"
                     }
                 },
                 {
