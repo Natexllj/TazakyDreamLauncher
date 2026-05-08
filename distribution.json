@@ -438,7 +438,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 27919,
-            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/servers/TazakyDream-1.20.1/forgemods/required/badpackets-forge-0.4.3.jar",
+            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/badpackets-forge-0.4.3.jar",
             "MD5": "4ac6c52d62eadf03c64df02ee74f42b5"
           }
         },
@@ -448,7 +448,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 373583,
-            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/servers/TazakyDream-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.9-all.jar",
+            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/balm-forge-1.20.1-7.3.9-all.jar",
             "MD5": "ccb8e1687a39cc613ad910460bd4ac3b"
           }
         },
@@ -458,7 +458,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 21800460,
-            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/servers/TazakyDream-1.20.1/forgemods/required/BiomesOPlenty-1.20.1-18.0.0.592.jar",
+            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/BiomesOPlenty-1.20.1-18.0.0.592.jar",
             "MD5": "dd2ec3933263ff5ff2eb0bbc21d8a0f7"
           }
         },
@@ -468,7 +468,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 360348,
-            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/servers/TazakyDream-1.20.1/forgemods/required/Corgilib-Forge-1.20.1-4.0.3.2.jar",
+            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/Corgilib-Forge-1.20.1-4.0.3.2.jar",
             "MD5": "48c23882876937e8dec808aa9ce84f0d"
           }
         },
@@ -478,7 +478,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 991552,
-            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/servers/TazakyDream-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.4.9.jar",
+            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/geckolib-forge-1.20.1-4.4.9.jar",
             "MD5": "edc6083a1c68415b9635d68c7cdf7a99"
           }
         },
@@ -488,7 +488,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1385057,
-            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/servers/TazakyDream-1.20.1/forgemods/required/jei-1.20.1-forge-15.19.5.99.jar",
+            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/jei-1.20.1-forge-15.19.5.99.jar",
             "MD5": "6e32a2e00fedbe4d23947e386513f239"
           }
         },
@@ -498,7 +498,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1167666,
-            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/servers/TazakyDream-1.20.1/forgemods/required/moonlight-1.20-2.12.17-forge.jar",
+            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/moonlight-1.20-2.12.17-forge.jar",
             "MD5": "45f5379fc88024c8b24cda04b29d3aef"
           }
         },
@@ -508,7 +508,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 35026651,
-            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/servers/TazakyDream-1.20.1/forgemods/required/Oh-The-Biomes-Weve-Gone-Forge-1.3.0.jar",
+            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/Oh-The-Biomes-Weve-Gone-Forge-1.3.0.jar",
             "MD5": "10960342e1f305f133c110cbad0e8219"
           }
         },
@@ -518,7 +518,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 124326,
-            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/servers/TazakyDream-1.20.1/forgemods/required/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.3.1.jar",
+            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.3.1.jar",
             "MD5": "cffc5844ec55e5efb03c07eea5cb8ef6"
           }
         },
@@ -528,7 +528,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 14543,
-            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/servers/TazakyDream-1.20.1/forgemods/required/sit-1.20.1-1.3.4.jar",
+            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/sit-1.20.1-1.3.4.jar",
             "MD5": "9f4777c1edc7a9ae78a11c1de9b30630"
           }
         },
@@ -538,7 +538,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 110583,
-            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/servers/TazakyDream-1.20.1/forgemods/required/starlight-1.1.2+forge.1cda73c.jar",
+            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/starlight-1.1.2+forge.1cda73c.jar",
             "MD5": "da99a054428fb62342b6767b993c4c8d"
           }
         },
@@ -548,7 +548,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 14531952,
-            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/servers/TazakyDream-1.20.1/forgemods/required/supplementaries-1.20-2.8.17.jar",
+            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/supplementaries-1.20-2.8.17.jar",
             "MD5": "6bf283334d5c5e30384e2432a5155383"
           }
         },
@@ -558,7 +558,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 107534,
-            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/servers/TazakyDream-1.20.1/forgemods/required/TerraBlender-forge-1.20.1-3.0.1.7.jar",
+            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/TerraBlender-forge-1.20.1-3.0.1.7.jar",
             "MD5": "78abbc04e408fb61de6df9c968008c4b"
           }
         },
@@ -568,7 +568,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 45084263,
-            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/servers/TazakyDream-1.20.1/forgemods/required/The_Undergarden-1.20.1-0.8.14.jar",
+            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/The_Undergarden-1.20.1-0.8.14.jar",
             "MD5": "a7eed1f6a3dbef9f70a3e1ca21514cb5"
           }
         },
@@ -578,7 +578,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3769386,
-            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/servers/TazakyDream-1.20.1/forgemods/required/The-Man-From-The-Fog-1.4-1.20.1.jar",
+            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/The-Man-From-The-Fog-1.4-1.20.1.jar",
             "MD5": "75cdd2565ffc3132500af54bd0d5d750"
           }
         },
@@ -588,7 +588,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 483650,
-            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/servers/TazakyDream-1.20.1/forgemods/required/waystones-forge-1.20-14.1.5.jar",
+            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/waystones-forge-1.20-14.1.5.jar",
             "MD5": "0bbf1cf815b13131701815f92678610f"
           }
         },
@@ -598,7 +598,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5825402,
-            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/servers/TazakyDream-1.20.1/forgemods/required/worldedit-mod-7.2.15.jar",
+            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/worldedit-mod-7.2.15.jar",
             "MD5": "bd0e7cff7896348faab92e43300d0639"
           }
         },
@@ -608,7 +608,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 763982,
-            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/servers/TazakyDream-1.20.1/forgemods/required/wthit-forge-8.15.2.jar",
+            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/wthit-forge-8.15.2.jar",
             "MD5": "b340421435656b7f7250e7d1ebe9e2cd"
           }
         },
@@ -618,7 +618,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 25597,
-            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/servers/TazakyDream-1.20.1/forgemods/required/wthitharvestability-mc1.20.1-2.2.0.jar",
+            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/wthitharvestability-mc1.20.1-2.2.0.jar",
             "MD5": "c9149278b399f98c4856c45ca287ee35"
           }
         },
@@ -628,7 +628,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 365910,
-            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/servers/TazakyDream-1.20.1/forgemods/required/YungsApi-1.20-Forge-4.0.5.jar",
+            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/YungsApi-1.20-Forge-4.0.5.jar",
             "MD5": "199469c1e63278dd21721860125e12ec"
           }
         },
@@ -638,7 +638,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 918012,
-            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/servers/TazakyDream-1.20.1/forgemods/required/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
             "MD5": "183e2c817e9094ce215c9e70c114825f"
           }
         },
@@ -648,7 +648,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 792381,
-            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/servers/TazakyDream-1.20.1/forgemods/required/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
             "MD5": "2de2f1be8f528ad139003bb5c73d49f3"
           }
         },
@@ -658,7 +658,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 387111,
-            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/servers/TazakyDream-1.20.1/forgemods/required/YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
             "MD5": "7f5ed661e5478668a91ea199fba75fb3"
           }
         },
@@ -668,7 +668,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 806652,
-            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/servers/TazakyDream-1.20.1/forgemods/required/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
             "MD5": "abf4f9ef692311aef1eccb98bcee8956"
           }
         },
@@ -678,7 +678,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 492998,
-            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/servers/TazakyDream-1.20.1/forgemods/required/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
             "MD5": "fe8d205c98cb02840d46646fb7cf5ab8"
           }
         },
@@ -688,7 +688,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 619255,
-            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/servers/TazakyDream-1.20.1/forgemods/required/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
             "MD5": "8f0011690923efb6e2d59514181f0bc9"
           }
         },
@@ -698,7 +698,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1033262,
-            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/servers/TazakyDream-1.20.1/forgemods/required/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
             "MD5": "467336218d681221ef8d875b226eb1bc"
           }
         },
@@ -708,7 +708,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 473564,
-            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/servers/TazakyDream-1.20.1/forgemods/required/YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
             "MD5": "8c00ed5d2bab232040a1d4d0ef746ae6"
           }
         },
@@ -718,7 +718,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 179190,
-            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/servers/TazakyDream-1.20.1/forgemods/required/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
             "MD5": "cb6d73e271fdfb2e8698b7c6bd9df0d9"
           }
         },
@@ -728,7 +728,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 136236,
-            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/servers/TazakyDream-1.20.1/forgemods/required/YungsBridges-1.20-Forge-4.0.3.jar",
+            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/YungsBridges-1.20-Forge-4.0.3.jar",
             "MD5": "9c39322cd0e271980b4449bc42fc17ac"
           }
         },
@@ -738,7 +738,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 200341,
-            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/servers/TazakyDream-1.20.1/forgemods/required/YungsExtras-1.20-Forge-4.0.3.jar",
+            "url": "https://github.com/Natexllj/TazakyDreamLauncher/releases/download/v1.0/YungsExtras-1.20-Forge-4.0.3.jar",
             "MD5": "6a592ed7502e13d840fa25587325202d"
           }
         }
